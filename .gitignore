@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Mac
+.DS_Store
+.Trashes
+.Spotlight-V100
